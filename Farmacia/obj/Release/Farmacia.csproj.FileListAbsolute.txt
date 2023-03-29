@@ -1,0 +1,10 @@
+D:\cursuri\bd\proiect farmacia\Farmacia\bin\Release\Farmacia.exe.config
+D:\cursuri\bd\proiect farmacia\Farmacia\bin\Release\Farmacia.exe
+D:\cursuri\bd\proiect farmacia\Farmacia\bin\Release\Farmacia.pdb
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.csproj.AssemblyReference.cache
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.Form1.resources
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.Properties.Resources.resources
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.csproj.GenerateResource.cache
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.csproj.CoreCompileInputs.cache
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.exe
+D:\cursuri\bd\proiect farmacia\Farmacia\obj\Release\Farmacia.pdb
